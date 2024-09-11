@@ -2,6 +2,7 @@
   "name": "auto-check-action",
   "version": "1.0.0",
   "description": "",
+  "packageManager": "pnpm@9.0.1",
   "main": "index.js",
   "scripts": {
     "build": "esno index.ts"
